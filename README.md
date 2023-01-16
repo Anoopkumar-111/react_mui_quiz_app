@@ -1,6 +1,6 @@
 #Quiz app 
 
-Live URL : https://react-quiz-app-mui.herokuapp.com/
+Live URL : https://quizchallengebyanoopkumar.netlify.app/
 
 ## Features of this app
 user can select MCQ test from different Categories like Computer , History , Politics etc
